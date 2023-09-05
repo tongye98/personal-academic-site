@@ -11,7 +11,7 @@ sections:
       image:
         filename: tong001.png
       text: |-
-        **Hello everyone!**
+        **Hello Everyone!**
         
         **Welcome to TongYe (叶童) personal homepage!**
     design:
